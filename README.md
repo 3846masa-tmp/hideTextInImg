@@ -1,0 +1,2 @@
+# hideTextInImg
+MATLABでテキストを画像にステガノグラフィーする
